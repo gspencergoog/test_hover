@@ -1,0 +1,10 @@
+# This file tracks properties of this Flutter project.
+# Used by Flutter tool to assess capabilities and perform upgrades etc.
+#
+# This file should be version controlled and should not be manually edited.
+
+version:
+  revision: 391a36b39f3312b6f4a5fd939bbf0f30129e6489
+  channel: hover
+
+project_type: app
